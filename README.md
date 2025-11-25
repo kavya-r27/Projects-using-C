@@ -1,2 +1,1 @@
-# Projects-using-C
-
+#Simple Calculator using C
